@@ -1,0 +1,198 @@
+{"url": "http://i.sohu.com", "xss": "no", "time": 2.626, "name": "searchInput", "label": "input"}
+{"url": "http://i.sohu.com/request/home/message.htm", "xss": "no", "time": 1.842, "name": "searchInput", "label": "input"}
+{"url": "http://mail.sohu.com/", "xss": "no", "time": 5.19, "name": "veryCode", "label": "input"}
+{"url": "http://i.sohu.com/home.htm", "xss": "no", "time": 1.844, "name": "searchInput", "label": "input"}
+{"url": "http://i.sohu.com/profile/home/basic.htm", "xss": "no", "time": 1.787, "name": "searchInput", "label": "input"}
+{"url": "http://i.sohu.com/profile/home/basic.htm", "xss": "yes", "time": 1.392, "name": "name", "label": "input"}
+{"url": "http://news.sohu.com/scroll/", "xss": "no", "time": 1.555, "id": "keyword", "label": "input"}
+{"url": "http://news.sohu.com/special.shtml", "xss": "no", "time": 1.671, "id": "pagenav", "label": "input"}
+{"url": "http://news.sohu.com/guoneixinwen.shtml", "xss": "no", "time": 1.709, "id": "pagenav", "label": "input"}
+{"url": "http://news.sohu.com/newsmaker_list/", "xss": "no", "time": 1.86, "id": "topSearch", "label": "input"}
+{"url": "http://m.sohu.com/", "xss": "yes", "time": 1.343, "name": "keyword", "label": "input"}
+{"url": "http://m.sohu.com/", "xss": "no", "time": 5.776, "name": "paras", "label": "input"}
+{"url": "http://k.sohu.com/", "xss": "no", "time": 1.789, "id": "telNum", "label": "input"}
+{"url": "http://k.sohu.com/", "xss": "no", "time": 1.746, "id": "secCode", "label": "input"}
+{"url": "http://star.news.sohu.com/20141209/n406779284.shtml", "xss": "no", "time": 0.147, "name": "email", "label": "input"}
+{"url": "http://star.news.sohu.com/20141209/n406779284.shtml", "xss": "no", "time": 2.504, "id": "query", "label": "input"}
+{"url": "http://club.news.sohu.com/zz0209/thread/2tfu8fxoec6", "xss": "no", "time": 0.129, "id": "search_input", "label": "input"}
+{"url": "http://club.news.sohu.com/zz0209/thread/2tfu8fxoec6", "xss": "no", "time": 0.227, "id": "vcode", "label": "input"}
+{"url": "http://club.news.sohu.com/zz0209/thread/2tfu8fxoec6", "xss": "no", "time": 0.135, "id": "forumSearch_", "label": "input"}
+{"url": "http://club.news.sohu.com/zz0209/thread/2tfu8fxoec6", "xss": "no", "time": 0.032, "label": "textarea"}
+{"url": "http://news.sohu.com/s2014/newsmaker2017/index.shtml", "xss": "no", "time": 0.275, "name": "email", "label": "input"}
+{"url": "http://star.news.sohu.com/piyao/", "xss": "no", "time": 1.562, "id": "topSearch", "label": "input"}
+{"url": "http://star.news.sohu.com/piyao/", "xss": "no", "time": 1.483, "id": "pagenav", "label": "input"}
+{"url": "http://nk.news.sohu.com/s2013/nknews/", "xss": "no", "time": 1.676, "id": "topSearch", "label": "input"}
+{"url": "http://nk.news.sohu.com/s2013/nknews/", "xss": "no", "time": 1.69, "id": "pagenav", "label": "input"}
+{"url": "http://city.sohu.com/20141209/n406783446.shtml?pvid=74c74aec2ee60f3f", "xss": "no", "time": 1.465, "id": "query", "label": "input"}
+{"url": "http://news.sohu.com/s2014/hugejile/", "xss": "no", "time": 0.053, "name": "email", "label": "input"}
+{"url": "http://news.sohu.com/s2014/nanshuibeidiao/", "xss": "no", "time": 2.964, "id": "pagenav", "label": "input"}
+{"url": "http://news.sohu.com/s2014/nanshuibeidiao/", "xss": "no", "time": 3.134, "id": "query", "label": "input"}
+{"url": "http://news.sohu.com/s2014/nanshuibeidiao/", "xss": "no", "time": 0.021, "label": "textarea"}
+{"url": "http://news.sohu.com/s2014/jieyue/index.shtml", "xss": "no", "time": 2.064, "id": "query", "label": "input"}
+{"url": "http://news.sohu.com/s2014/beijingbangyang2014/index.shtml", "xss": "no", "time": 2.309, "id": "query", "label": "input"}
+{"url": "http://news.sohu.com/s2014/jingwang/index.shtml", "xss": "no", "time": 1.831, "name": "", "label": "input"}
+{"url": "http://news.sohu.com/s2014/jingwang/index.shtml", "xss": "no", "time": 0.042, "label": "textarea"}
+{"url": "http://news.sohu.com/s2013/yaoming/index.shtml", "xss": "no", "time": 0.048, "name": "comment.title", "label": "input"}
+{"url": "http://news.sohu.com/s2013/yaoming/index.shtml", "xss": "no", "time": 0.011, "label": "textarea"}
+{"url": "http://cul.sohu.com/s2013/shanyang/", "xss": "no", "time": 0.058, "name": "comment.title", "label": "input"}
+{"url": "http://cul.sohu.com/s2013/shanyang/", "xss": "no", "time": 0.025, "label": "textarea"}
+{"url": "http://cul.sohu.com/culturenews/", "xss": "no", "time": 1.35, "id": "pagenav", "label": "input"}
+{"url": "http://book.sohu.com/s2014/maozuihou/", "xss": "no", "time": 0.049, "name": "", "label": "input"}
+{"url": "http://book.sohu.com/s2014/beiyang/", "xss": "no", "time": 0.072, "name": "", "label": "input"}
+{"url": "http://book.sohu.com/s2014/dongbeiwangshi/", "xss": "no", "time": 0.05, "name": "", "label": "input"}
+{"url": "http://history.sohu.com/dujia/", "xss": "no", "time": 0.05, "id": "pagenav", "label": "input"}
+{"url": "http://history.sohu.com/20141209/n406765715.shtml", "xss": "no", "time": 3.175, "id": "query", "label": "input"}
+{"url": "http://history.sohu.com/20141209/n406765715.shtml", "xss": "no", "time": 0.041, "label": "textarea"}
+{"url": "http://history.sohu.com/s2014/xinjiapofazhi/", "xss": "no", "time": 0.099, "name": "comment.title", "label": "input"}
+{"url": "http://history.sohu.com/s2014/xinjiapofazhi/", "xss": "no", "time": 0.022, "label": "textarea"}
+{"url": "http://history.sohu.com/s2013/dujia/", "xss": "no", "time": 0.051, "id": "pagenav", "label": "input"}
+{"url": "http://gongyi.sohu.com/", "xss": "no", "time": 0.909, "id": "query", "label": "input"}
+{"url": "http://gongyi.sohu.com/20141209/n406785190.shtml", "xss": "no", "time": 3.466, "id": "query", "label": "input"}
+{"url": "http://gongyi.sohu.com/20141209/n406785190.shtml", "xss": "no", "time": 0.115, "label": "textarea"}
+{"url": "http://book.sohu.com/s2014/fubaisishenghuo/", "xss": "no", "time": 0.065, "name": "", "label": "input"}
+{"url": "http://book.sohu.com/s2014/yanyinan/", "xss": "no", "time": 0.076, "name": "", "label": "input"}
+{"url": "http://mil.sohu.com/s2013/jqz/index.shtml", "xss": "no", "time": 0.067, "name": "comment.title", "label": "input"}
+{"url": "http://mil.sohu.com/s2013/jqz/index.shtml", "xss": "no", "time": 0.022, "label": "textarea"}
+{"url": "http://mil.sohu.com/s2014/771zljt/index.shtml", "xss": "no", "time": 2.077, "name": "", "label": "input"}
+{"url": "http://mil.sohu.com/s2014/771zljt/index.shtml", "xss": "no", "time": 0.02, "label": "textarea"}
+{"url": "http://media.sohu.com/20141208/n406748710.shtml", "xss": "no", "time": 2.807, "id": "query", "label": "input"}
+{"url": "http://media.sohu.com/20141208/n406748710.shtml", "xss": "no", "time": 0.143, "label": "textarea"}
+{"url": "http://business.sohu.com/", "xss": "no", "time": 2.722, "name": "code", "label": "input"}
+{"url": "http://stock.sohu.com/", "xss": "no", "time": 3.378, "class": "searchInput kw", "label": "input"}
+{"url": "http://business.sohu.com/s2012/picture-talk/index.shtml", "xss": "no", "time": 1.544, "id": "pagenav", "label": "input"}
+{"url": "http://business.sohu.com/s2014/caiji/index.shtml", "xss": "no", "time": 2.073, "name": "", "label": "input"}
+{"url": "http://business.sohu.com/s2014/caiji/index.shtml", "xss": "no", "time": 0.082, "label": "textarea"}
+{"url": "http://fund.sohu.com/fund.shtml", "xss": "no", "time": 2.292, "id": "searchInput", "label": "input"}
+{"url": "http://fashion.sohu.com/", "xss": "no", "time": 1.148, "name": "email", "label": "input"}
+{"url": "http://tv.sohu.com/", "xss": "no", "time": 11.417, "id": "gNewSearch", "label": "input"}
+{"url": "http://tv.sohu.com/", "xss": "no", "time": 4.586, "id": "sKeyA", "label": "input"}
+{"url": "http://auto.sohu.com/", "xss": "no", "time": 2.087, "id": "mainSearchInput", "label": "input"}
+{"url": "http://auto.sohu.com/", "xss": "no", "time": 1.525, "id": "searchForumContent", "label": "input"}
+{"url": "http://auto.sohu.com/", "xss": "no", "time": 0.019, "id": "mainSearchInput1", "label": "input"}
+{"url": "http://f.sohu.com", "xss": "no", "time": 1.028, "id": "mainSearchInput", "label": "input"}
+{"url": "http://f.sohu.com", "xss": "no", "time": 2.36, "id": "searchForumContent", "label": "input"}
+{"url": "http://f.sohu.com", "xss": "no", "time": 2.594, "id": "mainSearchInput1", "label": "input"}
+{"url": "http://2sc.sohu.com/", "xss": "no", "time": 4.074, "id": "serchkey", "label": "input"}
+{"url": "http://2sc.sohu.com/", "xss": "no", "time": 4.115, "id": "mileage", "label": "input"}
+{"url": "http://2sc.sohu.com/", "xss": "no", "time": 1.23, "id": "scip_hd", "label": "input"}
+{"url": "http://auto.sohu.com/20141208/n406760254.shtml", "xss": "no", "time": 2.188, "id": "psearchkeyword", "label": "input"}
+{"url": "http://auto.sohu.com/20141208/n406760254.shtml", "xss": "no", "time": 0.04, "id": "query", "label": "input"}
+{"url": "http://auto.sohu.com/20141208/n406760254.shtml", "xss": "no", "time": 0.019, "id": "cname", "label": "input"}
+{"url": "http://auto.sohu.com/20141208/n406760254.shtml", "xss": "no", "time": 0.015, "id": "ctel", "label": "input"}
+{"url": "http://2sc.sohu.com/auto1-magotan/a0b0c0d0e0f0g0h2j0k0m0n0/", "xss": "no", "time": 2.611, "id": "serchkey", "label": "input"}
+{"url": "http://2sc.sohu.com/auto1-magotan/a0b0c0d0e0f0g0h2j0k0m0n0/", "xss": "no", "time": 0.048, "class": "txt_cus", "label": "input"}
+{"url": "http://2sc.sohu.com/auto1-q5/a0b0c0d0e0f0g0h2j0k0m0n0/", "xss": "no", "time": 3.454, "id": "serchkey", "label": "input"}
+{"url": "http://2sc.sohu.com/auto1-q5/a0b0c0d0e0f0g0h2j0k0m0n0/", "xss": "no", "time": 0.048, "class": "txt_cus", "label": "input"}
+{"url": "http://2sc.sohu.com/buycar/a0b0_5c0d0e0f0g0h0j0k0m0n0/?pvid=7a76fc1d4e6f2609", "xss": "no", "time": 1.647, "id": "serchkey", "label": "input"}
+{"url": "http://2sc.sohu.com/buycar/a0b0_5c0d0e0f0g0h0j0k0m0n0/?pvid=7a76fc1d4e6f2609", "xss": "no", "time": 0.055, "class": "txt_cus", "label": "input"}
+{"url": "http://2sc.sohu.com/buycar/a0b3c0d0e0f0g0h0j0k0m0n0/?pvid=7a76fc1d4e6f2609", "xss": "no", "time": 1.612, "id": "serchkey", "label": "input"}
+{"url": "http://2sc.sohu.com/buycar/a0b3c0d0e0f0g0h0j0k0m0n0/?pvid=7a76fc1d4e6f2609", "xss": "no", "time": 0.039, "class": "txt_cus", "label": "input"}
+{"url": "http://2sc.sohu.com/buycar/a0b10_20c0d0e0f0g0h0j0k0m0n0/?pvid=7a76fc1d4e6f2609", "xss": "no", "time": 2.185, "id": "serchkey", "label": "input"}
+{"url": "http://2sc.sohu.com/buycar/a0b10_20c0d0e0f0g0h0j0k0m0n0/?pvid=7a76fc1d4e6f2609", "xss": "no", "time": 0.039, "class": "txt_cus", "label": "input"}
+{"url": "http://2sc.sohu.com/sell/?pvid=7a76fc1d4e6f2609", "xss": "no", "time": 1.987, "id": "serchkey", "label": "input"}
+{"url": "http://2sc.sohu.com/sell/?pvid=7a76fc1d4e6f2609", "xss": "no", "time": 0.064, "id": "headertrim-input", "label": "input"}
+{"url": "http://2sc.sohu.com/sell/?pvid=7a76fc1d4e6f2609", "xss": "no", "time": 2.045, "id": "mileAge", "label": "input"}
+{"url": "http://2sc.sohu.com/sell/?pvid=7a76fc1d4e6f2609", "xss": "no", "time": 2.015, "id": "userName", "label": "input"}
+{"url": "http://2sc.sohu.com/sell/?pvid=7a76fc1d4e6f2609", "xss": "no", "time": 1.841, "id": "phone", "label": "input"}
+{"url": "http://2sc.sohu.com/evaluation/?pvid=7a76fc1d4e6f2609", "xss": "no", "time": 1.915, "id": "serchkey", "label": "input"}
+{"url": "http://2sc.sohu.com/evaluation/?pvid=7a76fc1d4e6f2609", "xss": "no", "time": 2.269, "id": "mileage", "label": "input"}
+{"url": "http://2sc.sohu.com/bj/buycar/", "xss": "no", "time": 2.42, "id": "serchkey", "label": "input"}
+{"url": "http://2sc.sohu.com/bj/buycar/", "xss": "no", "time": 0.062, "class": "txt_cus", "label": "input"}
+{"url": "http://2sc.sohu.com/bj/auto1-newpassat/a0b0c0d0_5e0f0g0h2j0k0m0n0/", "xss": "no", "time": 1.69, "id": "serchkey", "label": "input"}
+{"url": "http://2sc.sohu.com/bj/auto1-newpassat/a0b0c0d0_5e0f0g0h2j0k0m0n0/", "xss": "no", "time": 0.074, "class": "txt_cus", "label": "input"}
+{"url": "http://2sc.sohu.com/bj/auto1-crv1/a0b0c0d0_5e0f0g0h2j0k0m0n0/", "xss": "no", "time": 1.644, "id": "serchkey", "label": "input"}
+{"url": "http://2sc.sohu.com/bj/auto1-crv1/a0b0c0d0_5e0f0g0h2j0k0m0n0/", "xss": "no", "time": 0.053, "class": "txt_cus", "label": "input"}
+{"url": "http://2sc.sohu.com/gd-sz/buycar/", "xss": "no", "time": 1.623, "id": "serchkey", "label": "input"}
+{"url": "http://2sc.sohu.com/gd-sz/buycar/", "xss": "no", "time": 0.038, "class": "txt_cus", "label": "input"}
+{"url": "http://2sc.sohu.com/gd-sz/auto1-bmw5/a0b0c0d0_6e0f0g0h2j0k0m0n0/", "xss": "no", "time": 1.761, "id": "serchkey", "label": "input"}
+{"url": "http://2sc.sohu.com/gd-sz/auto1-bmw5/a0b0c0d0_6e0f0g0h2j0k0m0n0/", "xss": "no", "time": 0.053, "class": "txt_cus", "label": "input"}
+{"url": "http://2sc.sohu.com/gd-sz/auto1-audia6l/a0b0c0d0_6e0f0g0h2j0k0m0n0/", "xss": "no", "time": 1.717, "id": "serchkey", "label": "input"}
+{"url": "http://2sc.sohu.com/gd-sz/auto1-audia6l/a0b0c0d0_6e0f0g0h2j0k0m0n0/", "xss": "no", "time": 0.037, "class": "txt_cus", "label": "input"}
+{"url": "http://2sc.sohu.com/sh/auto1-passatcc/a0b0c0d0_5e0f0g0h2j0k0m0n0/", "xss": "no", "time": 1.716, "id": "serchkey", "label": "input"}
+{"url": "http://2sc.sohu.com/sh/auto1-passatcc/a0b0c0d0_5e0f0g0h2j0k0m0n0/", "xss": "no", "time": 0.063, "class": "txt_cus", "label": "input"}
+{"url": "http://2sc.sohu.com/sh/auto-jeep/a0b0c0d0_5e0f0g0h2j0k0m0n0/", "xss": "no", "time": 1.76, "id": "serchkey", "label": "input"}
+{"url": "http://2sc.sohu.com/sh/auto-jeep/a0b0c0d0_5e0f0g0h2j0k0m0n0/", "xss": "no", "time": 0.036, "class": "txt_cus", "label": "input"}
+{"url": "http://2sc.sohu.com/bj/", "xss": "no", "time": 3.122, "id": "serchkey", "label": "input"}
+{"url": "http://2sc.sohu.com/bj/", "xss": "no", "time": 2.95, "id": "mileage", "label": "input"}
+{"url": "http://2sc.sohu.com/bj/", "xss": "no", "time": 0.053, "id": "scip_hd", "label": "input"}
+{"url": "http://pay.sohu.com/", "xss": "no", "time": 2.436, "id": "userNameL", "label": "input"}
+{"url": "http://pay.sohu.com/", "xss": "no", "time": 2.129, "id": "verifyCode", "label": "input"}
+{"url": "http://pay.sohu.com/", "xss": "no", "time": 0.491, "id": "stoken", "label": "input"}
+{"url": "http://www.zhnews.net/zt/2014/0327/", "xss": "no", "time": 0.066, "name": "keyword", "label": "input"}
+{"url": "http://epaper.zhnews.net/", "xss": "no", "time": 0.045, "id": "fname", "label": "input"}
+{"url": "http://epaper.zhnews.net/", "xss": "no", "time": 1.455, "id": "lname", "label": "input"}
+{"url": "http://epaper.zhnews.net/", "xss": "no", "time": 0.229, "name": "txtyzm", "label": "input"}
+{"url": "http://epaper.zhnews.net/", "xss": "no", "time": 7.815, "id": "fname", "label": "input"}
+{"url": "http://www.zhnews.net/zt/2014/0327/", "xss": "no", "time": 0.21, "name": "keyword", "label": "input"}
+{"url": "http://epaper.zhnews.net/", "xss": "no", "time": 0.05, "id": "fname", "label": "input"}
+{"url": "http://epaper.zhnews.net/", "xss": "no", "time": 1.285, "id": "lname", "label": "input"}
+{"url": "http://epaper.zhnews.net/", "xss": "no", "time": 0.284, "name": "txtyzm", "label": "input"}
+{"url": "http://bbs.zhnews.net/bbs/forum.php?mod=forumdisplay&fid=361&filter=typeid&typeid=182", "xss": "no", "time": 2.212, "id": "scbar_txt", "label": "input"}
+{"url": "http://bbs.zhnews.net/bbs/forum.php?mod=forumdisplay&fid=361&filter=typeid&typeid=182", "xss": "no", "time": 1.301, "name": "custompage", "label": "input"}
+{"url": "http://www.zhnews.net/finance/", "xss": "no", "time": 2.306, "name": "keyword", "label": "input"}
+{"url": "http://auto.zhnews.net/", "xss": "no", "time": 0.017, "name": "keyword", "label": "input"}
+{"url": "http://www.zhnews.net/sls/", "xss": "no", "time": 0.015, "id": "", "label": "input"}
+{"url": "http://www.zhnews.net/sls/", "xss": "no", "time": 1.629, "name": "idcard", "label": "input"}
+{"url": "http://www.zhnews.net/sls/", "xss": "no", "time": 1.476, "name": "applyid", "label": "input"}
+{"url": "http://bbs.zhnews.net/", "xss": "no", "time": 3.691, "id": "scbar_txt", "label": "input"}
+{"url": "http://zhwomen.zhnews.net/", "xss": "no", "time": 2.726, "id": "keyword", "label": "input"}
+{"url": "http://zhwomen.zhnews.net/", "xss": "no", "time": 1.781, "id": "username", "label": "input"}
+{"url": "http://zhfnwqz.zhnews.net/", "xss": "no", "time": 1.492, "id": "q", "label": "input"}
+{"url": "http://epaper.zhnews.net/", "xss": "no", "time": 29.244, "id": "fname", "label": "input"}
+{"url": "http://epaper.zhnews.net/", "xss": "no", "time": 1.348, "id": "lname", "label": "input"}
+{"url": "http://epaper.zhnews.net/", "xss": "no", "time": 0.27, "name": "txtyzm", "label": "input"}
+{"url": "http://bbs.zhnews.net/bbs/forum.php?mod=forumdisplay&fid=361&filter=typeid&typeid=182", "xss": "no", "time": 1.191, "id": "scbar_txt", "label": "input"}
+{"url": "http://bbs.zhnews.net/bbs/forum.php?mod=forumdisplay&fid=361&filter=typeid&typeid=182", "xss": "no", "time": 1.253, "name": "custompage", "label": "input"}
+{"url": "http://www.zhnews.net/finance/", "xss": "no", "time": 1.366, "name": "keyword", "label": "input"}
+{"url": "http://auto.zhnews.net/", "xss": "no", "time": 0.014, "name": "keyword", "label": "input"}
+{"url": "http://www.zhnews.net/sls/", "xss": "no", "time": 0.022, "id": "", "label": "input"}
+{"url": "http://www.zhnews.net/sls/", "xss": "no", "time": 1.183, "name": "idcard", "label": "input"}
+{"url": "http://www.zhnews.net/sls/", "xss": "no", "time": 1.144, "name": "applyid", "label": "input"}
+{"url": "http://bbs.zhnews.net/", "xss": "no", "time": 2.599, "id": "scbar_txt", "label": "input"}
+{"url": "http://zhwomen.zhnews.net/", "xss": "no", "time": 1.156, "id": "keyword", "label": "input"}
+{"url": "http://zhwomen.zhnews.net/", "xss": "no", "time": 1.138, "id": "username", "label": "input"}
+{"url": "http://zhfnwqz.zhnews.net/", "xss": "no", "time": 1.172, "id": "q", "label": "input"}
+{"url": "http://mlzg.zhnews.net/", "xss": "no", "time": 1.299, "name": "keyword", "label": "input"}
+{"url": "http://mlzg.zhnews.net/", "xss": "no", "time": 1.324, "id": "textfield", "label": "input"}
+{"url": "http://bbs.zhnews.net/bbs/forum.php?mod=viewthread&tid=1267801", "xss": "no", "time": 1.195, "id": "scbar_txt", "label": "input"}
+{"url": "http://bbs.zhnews.net/bbs/forum.php?mod=viewthread&tid=1267801", "xss": "no", "time": 1.218, "class": "px p_fre z", "label": "input"}
+{"url": "http://bbs.zhnews.net/bbs/forum.php?mod=viewthread&tid=1267801", "xss": "no", "time": 0.589, "label": "textarea"}
+{"url": "http://www.zhnews.net/intest/index/content/134699", "xss": "no", "time": 1.151, "id": "nickname", "label": "input"}
+{"url": "http://www.zhnews.net/intest/index/content/134699", "xss": "no", "time": 0.031, "label": "textarea"}
+{"url": "http://www.zhnews.net/index.php/other/game", "xss": "no", "time": 1.137, "name": "keyword", "label": "input"}
+{"url": "http://www.zhnews.net/index/content/145672", "xss": "no", "time": 2.037, "id": "nickname", "label": "input"}
+{"url": "http://www.zhnews.net/index/content/145672", "xss": "no", "time": 0.806, "label": "textarea"}
+{"url": "http://bbs.zhnews.net/bbs/s.php?url=forum.php?mod=viewthread&tid=1267776", "xss": "no", "time": 4.797, "id": "nickname", "label": "input"}
+{"url": "http://bbs.zhnews.net/bbs/s.php?url=forum.php?mod=viewthread&tid=1267776", "xss": "no", "time": 0.473, "label": "textarea"}
+{"url": "http://bbs.zhnews.net/bbs/forum.php?mod=viewthread&tid=1236916&extra=page%3d1", "xss": "no", "time": 1.182, "id": "scbar_txt", "label": "input"}
+{"url": "http://bbs.zhnews.net/bbs/forum.php?mod=viewthread&tid=1236916&extra=page%3d1", "xss": "no", "time": 1.23, "class": "px p_fre z", "label": "input"}
+{"url": "http://zhnews.taobao.com/", "xss": "no", "time": 2.357, "name": "keyword", "label": "input"}
+{"url": "http://zhnews.taobao.com/", "xss": "no", "time": 2.731, "id": "price1", "label": "input"}
+{"url": "http://zhnews.taobao.com/", "xss": "no", "time": 2.734, "id": "price2", "label": "input"}
+{"url": "http://www.zhnews.net/ds/index/content/88634", "xss": "no", "time": 1.156, "id": "nickname", "label": "input"}
+{"url": "http://www.zhnews.net/ds/index/content/88634", "xss": "no", "time": 0.031, "label": "textarea"}
+{"url": "http://search.zhnews.net/psb/home.php", "xss": "no", "time": 1.287, "id": "Hot2Man", "label": "input"}
+{"url": "http://search.zhnews.net/psb/home.php", "xss": "no", "time": 1.295, "id": "Hot2Phone", "label": "input"}
+{"url": "http://search.zhnews.net/psb/home.php", "xss": "no", "time": 1.259, "id": "Hot2Email", "label": "input"}
+{"url": "http://search.zhnews.net/psb/home.php", "xss": "no", "time": 1.356, "id": "Hot1Title", "label": "input"}
+{"url": "http://search.zhnews.net/psb/home.php", "xss": "no", "time": 0.189, "id": "ud_date", "label": "input"}
+{"url": "http://search.zhnews.net/psb/home.php", "xss": "no", "time": 0.017, "label": "textarea"}
+{"url": "http://search.zhnews.net/tqb/", "xss": "no", "time": 1.148, "id": "Hot2Man", "label": "input"}
+{"url": "http://search.zhnews.net/tqb/", "xss": "no", "time": 1.224, "id": "Hot2Phone", "label": "input"}
+{"url": "http://search.zhnews.net/tqb/", "xss": "no", "time": 1.271, "id": "Hot2Email", "label": "input"}
+{"url": "http://search.zhnews.net/tqb/", "xss": "no", "time": 1.281, "id": "Hot1Title", "label": "input"}
+{"url": "http://search.zhnews.net/tqb/", "xss": "no", "time": 1.297, "id": "ud_date", "label": "input"}
+{"url": "http://search.zhnews.net/tqb/", "xss": "no", "time": 0.137, "label": "textarea"}
+{"url": "http://search.zhnews.net/zjwb/", "xss": "no", "time": 1.206, "id": "Hot2Man", "label": "input"}
+{"url": "http://search.zhnews.net/zjwb/", "xss": "no", "time": 2.452, "id": "Hot2Phone", "label": "input"}
+{"url": "http://search.zhnews.net/zjwb/", "xss": "no", "time": 2.478, "id": "Hot2Email", "label": "input"}
+{"url": "http://search.zhnews.net/zjwb/", "xss": "no", "time": 2.477, "id": "Hot1Title", "label": "input"}
+{"url": "http://search.zhnews.net/zjwb/", "xss": "no", "time": 3.731, "id": "ud_date", "label": "input"}
+{"url": "http://search.zhnews.net/zjwb/", "xss": "no", "time": 1.399, "label": "textarea"}
+{"url": "http://bbs.zhnews.net/bbs/forum-13-1.html", "xss": "no", "time": 1.188, "id": "scbar_txt", "label": "input"}
+{"url": "http://bbs.zhnews.net/bbs/forum-13-1.html", "xss": "no", "time": 1.238, "name": "custompage", "label": "input"}
+{"url": "http://bbs.zhnews.net/bbs/forum-13-1.html", "xss": "no", "time": 1.856, "id": "subject", "label": "input"}
+{"url": "http://bbs.zhnews.net/bbs/forum-13-1.html", "xss": "no", "time": 0.016, "label": "textarea"}
+{"url": "http://bbs.zhnews.net/bbs/forum-365-1.html", "xss": "no", "time": 1.18, "id": "scbar_txt", "label": "input"}
+{"url": "http://bbs.zhnews.net/bbs/forum-365-1.html", "xss": "no", "time": 1.139, "id": "subject", "label": "input"}
+{"url": "http://bbs.zhnews.net/bbs/forum-365-1.html", "xss": "no", "time": 0.015, "label": "textarea"}
