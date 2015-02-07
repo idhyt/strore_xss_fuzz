@@ -5,6 +5,7 @@
 # usage:       webScan.py    url    spider_count
 #
 # Author:      idhyt (idhytgg@gmail.com)
+# github:      https://github.com/idhyt
 # Created:     $[DateTime-'DD/MM/YYYY'-DateFormat]
 # Copyright:   (c) $[UserName] $[DateTime-'YYYY'-DateFormat]
 # Licence:     <your licence>
